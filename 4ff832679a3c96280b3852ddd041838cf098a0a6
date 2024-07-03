@@ -16,6 +16,24 @@
       "message": "See if \"Reapply \"Remove Android Q kernel configs\"\" causes issues for us, can revert",
       "revId": "4ff832679a3c96280b3852ddd041838cf098a0a6",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5775787a_ceef9d27",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-07-03T12:31:15Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "b67b1e4b_19dd02e4",
+      "revId": "4ff832679a3c96280b3852ddd041838cf098a0a6",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ],
   "submitRequirementResults": [
